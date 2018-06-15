@@ -14,7 +14,7 @@
 
 ### C
 
-- [closure](./closure)
+- [closure](./c/closure)
                         
 
 ### D
