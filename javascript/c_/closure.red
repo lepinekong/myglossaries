@@ -16,6 +16,7 @@ Glossary: [
     References: [
         .title: {References}
         .links: [
+            {JavaScript Closures - w3schools.com} https://www.w3schools.com/js/js_function_closures.asp
             {Understand Closures in JavaScript - codeburst.io} https://codeburst.io/understand-closures-in-javascript-d07852fa51e7
         ]
     ]
