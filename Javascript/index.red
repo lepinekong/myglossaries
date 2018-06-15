@@ -4,6 +4,8 @@ Red [
 
 Glossary: [
 
+    Title: {Index of Javascript Glossary}
+
     C: [
         .title: {C}
         .links: [
