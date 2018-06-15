@@ -25,7 +25,14 @@ Glossary: [
         .links: [
             {closure} %./closure
         ]
-    ]    
+    ]  
+
+    D: [
+        .title: {D}
+        .links: [
+            {} %./
+        ]
+    ]         
 ]
 
 do read http://readablehumanformat.com/lib.red
