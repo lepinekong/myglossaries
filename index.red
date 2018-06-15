@@ -2,21 +2,23 @@ Red [
     Title: "myglossaries.space Index"
 ]
 
-Source: [
-    .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-    .text: {[http://myglossaries.space/index.red](https://github.com/lepinekong/myglossaries/blob/master/index.red)
-    }
-    .Published-Url: http://myglossaries.space/index
-]
-            
+          
 Article: [
 
     Title: {Index of myglossaries.space}
 
+    Source: [
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://myglossaries.space/index.red](https://github.com/lepinekong/myglossaries/blob/master/index.red)
+        }
+        .Published-Url: http://myglossaries.space/index
+    ]
+
+
     category: [
-        .title:  
+        .title: {Programming} 
         .links: [
-            javascript %./javascript
+            {javascript} %./javascript
         ]    
     ]
 
