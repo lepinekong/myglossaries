@@ -23,7 +23,7 @@ Glossary: [
     C: [
         .title: {C}
         .links: [
-            {closure} %./closure
+            {closure} %./c/closure
         ]
     ]  
 
