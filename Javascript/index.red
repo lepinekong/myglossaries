@@ -6,6 +6,20 @@ Glossary: [
 
     Title: {Index of Javascript Glossary}
 
+    A: [
+        .title: {A}
+        .links: [
+            {} %./
+        ]
+    ]
+
+    B: [
+        .title: {B}
+        .links: [
+            {} %./
+        ]
+    ]      
+
     C: [
         .title: {C}
         .links: [
