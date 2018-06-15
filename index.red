@@ -2,7 +2,7 @@ Red [
     Title: "myglossaries.space Index"
 ]
 
-          
+
 Article: [
 
     Title: {Index of myglossaries.space}
