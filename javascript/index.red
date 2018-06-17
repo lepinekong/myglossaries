@@ -9,7 +9,7 @@ Glossary: [
     A: [
         .title: {A}
         .links: [
-            {} %./
+            {} %./letter/term
         ]
     ]
 
@@ -32,7 +32,14 @@ Glossary: [
         .links: [
             {} %./
         ]
-    ]         
+    ]   
+
+    I: [
+        .title: {I}
+        .links: [
+            {IIFE} %./i/iife
+        ]
+    ]            
 ]
 
 do read http://readablehumanformat.com/lib.red
